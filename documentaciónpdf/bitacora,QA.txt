@@ -1,0 +1,8 @@
+BITÁCORA DE CONTROL DE CALIDAD - LUIS
+- Fecha: 21/05/2026
+- Estado: Aprobado
+- Verificaciones: 
+   1. El script lee correctamente el CSV.
+   2. Los cálculos de ventas coinciden con los datos fuente.
+   3. Se generó el gráfico de ventas mensual sin errores.
+   4. Los archivos de salida están en la carpeta correspondiente.
